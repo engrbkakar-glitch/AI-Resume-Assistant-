@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 MAX_FILE_MB = 10
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 
 def get_api_key():
